@@ -34,3 +34,9 @@ Now all thats left is to create the '.ob' file and the '.ent' and '.ext' files, 
 	test2 has many macro decleration errors, test3 is the example from the project book,
 	test4 passed the macro stage but has errors that appear in the first and second run,
 	and test5 has no errors and no extern or entries.
+
+## Input file example
+![Screenshot 2025-03-08 214819](https://github.com/user-attachments/assets/a62bcb27-e7db-44fc-b94d-98d5b5aabcc3)
+
+## Output file example
+![Screenshot 2025-03-08 214835](https://github.com/user-attachments/assets/3e8bf8a0-1153-4fce-baae-00caa4ea5635)
