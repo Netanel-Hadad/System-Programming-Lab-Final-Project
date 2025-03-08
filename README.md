@@ -35,8 +35,15 @@ Now all thats left is to create the '.ob' file and the '.ent' and '.ext' files, 
 	test4 passed the macro stage but has errors that appear in the first and second run,
 	and test5 has no errors and no extern or entries.
 
-## Input file example
+## Input and output files example
+Input; .as file:
+
 ![Screenshot 2025-03-08 214819](https://github.com/user-attachments/assets/a62bcb27-e7db-44fc-b94d-98d5b5aabcc3)
 
-## Output file example
+Output; .ob, .enb and .ext files:
+
 ![Screenshot 2025-03-08 214835](https://github.com/user-attachments/assets/3e8bf8a0-1153-4fce-baae-00caa4ea5635)
+
+![Screenshot 2025-03-08 215110](https://github.com/user-attachments/assets/cf5f27e1-1230-4122-a73e-c09b8075a6e1)
+
+![Screenshot 2025-03-08 215122](https://github.com/user-attachments/assets/179c70e4-77ed-474b-8227-65c937987f23)
